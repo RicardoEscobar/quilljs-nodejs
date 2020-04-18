@@ -10,7 +10,7 @@ Saving a __Quilljs__ object into a __JSON__ file.
 
 1. Install nodejs packages inside working directory: __path/to/project_folder/__ with this command: `npm install`.
 
-1. Run the project with this command: `npm start`. Alternatively you can run the app directly with `node index.js` and if you have __nodemon__ installed, run with `nodemon index.js`.
+1. Run the project with this command: `npm start`. Alternatively you can run the app directly with `node bin/www` and if you have __nodemon__ installed, run with `nodemon bin/www`.
 
 1. Open a web browser and follow this link: [http://localhost:3000](http://localhost:3000)
 
